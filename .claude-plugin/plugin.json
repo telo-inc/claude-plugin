@@ -1,0 +1,20 @@
+{
+  "name": "telo",
+  "version": "1.1.0",
+  "description": "Review your Apple Health week and explore long-term sleep, activity and workout trends with explicit data coverage.",
+  "author": {
+    "name": "Telo",
+    "email": "contact@telo.health",
+    "url": "https://telo.health"
+  },
+  "homepage": "https://telo.health",
+  "repository": "https://github.com/telo-inc/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "health",
+    "sleep",
+    "workouts",
+    "apple-health"
+  ],
+  "privacyPolicyUrl": "https://telo.health/privacy"
+}

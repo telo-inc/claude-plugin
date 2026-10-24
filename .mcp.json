@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "telo": {
+      "type": "http",
+      "url": "https://telo.health/mcp"
+    }
+  }
+}
